@@ -45,7 +45,7 @@ docker node ls
 
 ### Passo 3
 
-Cria e colocar uma pilha de serviços no docker swarm
+Criar e colocar uma pilha de serviços no docker swarm
 
 Crie um arquivo chamado docker-compose.yml com o seguinte conteúdo fornecido no blog de aulas:
 
